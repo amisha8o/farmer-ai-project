@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>AI Farmer Predictive System</title>
+
+<style>
+
+body{
+font-family:Arial;
+text-align:center;
+padding:50px;
+background:#f5fff0;
+}
+
+.box{
+background:white;
+padding:35px;
+
+width:450px;
+
+margin:auto;
+
+border-radius:15px;
+
+box-shadow:0 0 20px lightgray;
+}
+
+h1{
+color:green;
+}
+
+p{
+color:gray;
+}
+
+input{
+
+padding:12px;
+
+margin:10px;
+
+width:270px;
+
+border-radius:8px;
+
+border:1px solid #ccc;
+
+}
+
+button{
+
+padding:12px 25px;
+
+background:green;
+
+color:white;
+
+border:none;
+
+border-radius:8px;
+
+cursor:pointer;
+
+}
+
+button:hover{
+
+background:darkgreen;
+
+}
+
+.result{
+
+margin-top:25px;
+
+font-size:20px;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="box">
+
+<h1>
+🌾 AI-Based Farmer Predictive System
+</h1>
+
+<p>
+National Food Sustainability Project
+</p>
+
+<form method="POST">
+
+<input
+type="number"
+name="temp"
+placeholder="Temperature"
+required
+>
+
+<br>
+
+<input
+type="number"
+name="rain"
+placeholder="Rainfall"
+required
+>
+
+<br>
+
+<input
+type="text"
+name="soil"
+placeholder="Soil Type"
+required
+>
+
+<br><br>
+
+<button type="submit">
+
+Predict Crop
+
+</button>
+
+</form>
+
+<div class="result">
+
+<h2>
+
+Recommended Crop:
+{{result}}
+
+</h2>
+
+<h3>
+
+Sustainability Score:
+{{score}}
+
+</h3>
+
+<h4>
+
+{{advice}}
+
+</h4>
+
+</div>
+
+<hr>
+
+<p>
+
+Developed by Amisha
+
+</p>
+
+</div>
+
+</body>
+
+</html>
