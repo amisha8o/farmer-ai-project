@@ -63,7 +63,7 @@ farmer-ai-project
 Clone repository:
 
 ```bash
-git clone <https://github.com/amisha8o/farmer-ai-project/tree/main>
+https://github.com/amisha8o/farmer-ai-project/tree/main
 ```
 
 Go to project folder:
