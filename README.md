@@ -63,7 +63,7 @@ farmer-ai-project
 Clone repository:
 
 ```bash
-git clone <repository-link>
+git clone <https://github.com/amisha8o/farmer-ai-project/tree/main>
 ```
 
 Go to project folder:
@@ -122,7 +122,7 @@ High food sustainability
 - Advanced Dashboard
 - Mobile Version
 - 
- ### Git Repo.-
+ 
 ## 🎯 Conclusion
 
 This project demonstrates how AI can assist farmers in making better crop decisions and contribute toward sustainable food production.
