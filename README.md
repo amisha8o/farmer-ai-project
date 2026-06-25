@@ -54,7 +54,8 @@ farmer-ai-project
       └── index.html
 ```
 
----<img width="647" height="862" alt="image" src="https://github.com/user-attachments/assets/1f07d9e8-3a36-4fe1-ba0d-46af0adf5ca8" />
+---<img width="681" height="892" alt="image" src="https://github.com/user-attachments/assets/eb5a7934-f897-4f90-8aa0-ad5e69df9c15" />
+
 
 
 ## ▶️ Installation
@@ -120,9 +121,8 @@ High food sustainability
 - Weather API Integration
 - Advanced Dashboard
 - Mobile Version
-
----
-
+- 
+ ### Git Repo.-
 ## 🎯 Conclusion
 
 This project demonstrates how AI can assist farmers in making better crop decisions and contribute toward sustainable food production.
